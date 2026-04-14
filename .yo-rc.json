@@ -1,0 +1,14 @@
+{
+  "@plentymarkets/generator-plugin": {
+    "promptValues": {
+      "type": "template"
+    },
+    "answers": {
+      "name": "SkynetAccessibilityScanner",
+      "author": "Rajesh Bhimani",
+      "type": "template",
+      "description": "Skynet Acccessibility Scanner",
+      "version": "0.0.1"
+    }
+  }
+}
