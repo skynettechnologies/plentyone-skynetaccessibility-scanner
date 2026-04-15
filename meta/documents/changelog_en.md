@@ -1,6 +1,5 @@
-# Release Notes for SkynetAccessibilityScanner
+# Release Notes for AllinOneAccessibility
 
-## v0.0.1
+## v1.0.0
 
-### Added
-[Further information](https://developers.plentymarkets.com/marketplace/plugin-requirements#marketplace-changelog)
+First Release

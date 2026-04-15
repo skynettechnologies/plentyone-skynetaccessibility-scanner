@@ -1,0 +1,24 @@
+{
+  "marketplaceName": {
+    "de": "SkynetAccessibility Scanner",
+    "en": "SkynetAccessibility Scanner"
+  },
+  "license": "AGPL-3.0",
+  "price": 0.00,
+  "shortDescription": {
+    "de": "Scannen, überwachen und identifizieren Sie Probleme mit der Barrierefreiheit von Websites gemäß WCAG 2.0, 2.1, 2.2, ADA, Section 508, EN 301 549, UK Equality Act, Australian DDA und Canada ACA. Erhalten Sie eine übersichtliche Darstellung der Probleme mit empfohlenen Lösungen.",
+    "en": "Scan, monitor, and identify website accessibility issues across WCAG 2.0, 2.1, 2.2, ADA, Section 508, EN 301 549, UK Equality Act, Australian DDA, and Canada ACA. Get simple issue highlights with recommended fixes."
+  },
+  "categories": ["3527"],
+  "keywords": [
+    "plentymarkets",
+    "plugins",
+    "layout",
+    "template",
+    "AllinOneAccessibility",
+    "SkynetAccessibilityScanner",
+    "accessibility",
+    "compliance",
+    "WCAG"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "defaultEntryPoint": "index.html",
+  "namespace": "SkynetAccessibilityScanner",
+  "menuEntries": [
+    {
+      "label": "SkynetAccessibility Scanner",
+      "menu": "start",
+      "urlKey": "skynet-accessibility-scanner",
+      "entryPoint": "index.html"
+    }
+  ]
+}
