@@ -1,5 +1,5 @@
-# Release Notes für AllinOneAccessibility
+# Versionshinweise für den SkynetAccessibility Scanner
 
 ## v1.0.0
 
-Erste Veröffentlichung
+Erste Version
